@@ -29,7 +29,7 @@
     "express-rate-limit": "^3.4.0",
     "express-react-views": "^0.11.0",
     "express-secure-only": "^0.2.1",
-    "helmet": "^3.16.0",
+    "helmet": "^3.23.3",
     "morgan": "^1.9.1",
     "prop-types": "^15.7.2",
     "react": "^16.8.4",
